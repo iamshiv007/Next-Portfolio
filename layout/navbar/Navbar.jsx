@@ -49,7 +49,7 @@ const Navbar = () => {
       >
         {/* Name Logo */}
         <p className='text-gray-400 flex'>
-          <span className='text-lg font-bold'>SHIV</span> <DiTechcrunch />
+          <span className='text-lg font-bold'>Ibrahim</span> 
         </p>
         <div className='h-full flex gap-4'>
           {/* Navbar Links */}
